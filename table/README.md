@@ -9,4 +9,5 @@ base on http://download.csdn.net/detail/zhao4zhong1/1675950
 for Unicode
 ------------------------------------
 we can use database on http://www.unicode.org/charts/unihan.html
+
 but, I decide to make it support Unicode in a little future
