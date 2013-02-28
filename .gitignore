@@ -1,0 +1,6 @@
+*.out
+*.o
+*.so
+*.tmp
+*.swp
+tags*
