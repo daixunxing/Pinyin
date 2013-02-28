@@ -5,3 +5,8 @@ base on http://zh.transwiki.org/wiki/index.php?title=GB2312%E6%B1%89%E5%AD%97%E6
 gbk.gb
 ------------------------------------
 base on http://download.csdn.net/detail/zhao4zhong1/1675950
+
+for Unicode
+------------------------------------
+we can use database on http://www.unicode.org/charts/unihan.html
+but, I decide to make it support Unicode in a little future
