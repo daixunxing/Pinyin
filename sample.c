@@ -10,7 +10,8 @@ int main(int argc, char *argv[])
 
 
 	// Read input
-	char c, *p;
+	int c;
+	char *p;
 	for (p = str_gbk; (c = getchar()) != EOF && p < str_gbk + BUFSIZ; p++)
 		*p = c;
 	*p = '\0';
